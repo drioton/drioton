@@ -1,0 +1,2 @@
+ps -e | awk '{print $4}' | sort | uniq | less -N
+proces -vsetky | praca s textom '{zobraz stvrty stlpec}' | zorad | len unikatne ziadne sa nebude opakovat viackrat | obsah na jednu obrazovku -cisla riadkov
